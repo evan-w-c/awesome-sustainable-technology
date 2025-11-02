@@ -150,7 +150,7 @@ solved in time.
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python.
 - [ENNOID-BMS](https://github.com/EnnoidMe/ENNOID-BMS) - Open-Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack.
 - [cellpy](https://github.com/jepegit/cellpy) - extract and tweak data from electrochemical tests of batterie cells.
-- [prediction-of-battery-cycle](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation) - Data driven prediciton of battery cycle life before capacity degradation.
+- [prediction-of-battery-cycle](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation) - Data driven prediction of battery cycle life before capacity degradation.
 - [BatterySense](https://github.com/rlogiacco/BatterySense) - This is a simple Arduino library to monitor battery consumption of your battery powered projects, being LiPo, LiIon, NiCd or any other battery type, single or multiple cells: if it can power your Arduino you can monitor it!
 - [beep](https://github.com/TRI-AMDD/beep) - is a set of tools designed to support Battery Evaluation and Early Prediction of cycle life corresponding to the research of the d3batt program and the Toyota Research Institute.
 - [snl-quest](https://github.com/snl-quest/snl-quest) - An open source, Python-based software application suite for energy storage simulation and analysis developed by Sandia National Laboratories.
